@@ -1,0 +1,10 @@
+GROQ_API_KEY=your-groq-api-key-here
+SERPER_API_KEY=your-serper-api-key-here
+RESEARCH_AGENT_LLM=groq/llama-3.1-8b-instant
+ANALYST_AGENT_LLM= groq/llama-3.1-8b-instant
+WRITER_AGENT_LLM= groq/llama-3.1-8b-instant
+QA_AGENT_LLM= groq/llama-3.1-8b-instant
+RESEARCH_AGENT_TEMPERATURE=0.1
+ANALYST_AGENT_TEMPERATURE=0.2
+WRITER_AGENT_TEMPERATURE=0.3
+QA_AGENT_TEMPERATURE=0.4 
