@@ -162,7 +162,7 @@ def main():
 
     # Footer
     st.markdown("---")
-    st.markdown("*Built with CrewAI, Streamlit, and Groq*")
+    st.markdown("*Built with CrewAI, Streamlit, and OpenAI*")
 
 
 if __name__ == "__main__":
