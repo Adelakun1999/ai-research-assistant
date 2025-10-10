@@ -10,7 +10,7 @@ load_dotenv()
 
 def check_api_keys():
     """Check if required API keys are set"""
-    required_vars = ['SERPER_API_KEY', 'GEMINI_API_KEY']
+    required_vars = ['SERPER_API_KEY', 'GROQ_API_KEY']
     missing_vars = [var for var in required_vars if not os.getenv(var)]
     return missing_vars
 
